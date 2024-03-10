@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/action_settings"
+        android:title="Setting"/>
+
+    <item
+        android:id="@+id/action_Storage"
+        android:title="Storage"/>
+
+    <item
+        android:id="@+id/action_Calls"
+        android:title="Calls"/>
+
+    <item
+        android:id="@+id/action_Update"
+        android:title="Updadte"/>
+
+
+
+</menu>
